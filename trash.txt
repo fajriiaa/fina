@@ -1,3 +1,10 @@
 satu
 dua
 tiga
+dempat
+
+
+
+
+
+sepuluh
